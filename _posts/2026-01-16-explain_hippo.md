@@ -8,7 +8,7 @@ mathjax: true
 # HiPPO: Recurrent Memory with Optimal Polynomial Projections
 **Deconstructing the "Math-Hard-Drive" for Neural Networks**
 
-*An intuitive dive into the paper [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) by Gu et al., NeurIPS 2020.*
+*An straightforward dive into the paper [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) by Gu et al., NeurIPS 2020.*
 
 ---
 
